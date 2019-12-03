@@ -31,6 +31,13 @@ header a{
     margin-right: 16px;
     text-decoration: none;
 }
+.teststyle{
+    font-size: 22px;
+    text-shadow: #888888;
+    font-family: sans-serif;
+    text-decoration: browns;
+    color: brown;
+}
 
 .potrait {
     width: 180px;
